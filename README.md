@@ -14,6 +14,7 @@
 
 ## 💞️ I’m looking to collaborate on:
 - Chatbot projects
+- DBMS projects
 - Academic performance tracking systems
 - Open-source software initiatives
 
