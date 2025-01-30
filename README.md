@@ -1,29 +1,20 @@
-# 👋 Hi, I’m @AadhiKabilan
+# Hi, I’m @AadhiKabilan
 
-## 👀 I’m interested in:
+## I’m interested in:
 - Software Development
 - AI and Machine Learning
 - Web Development
 - Gaming
 
-## 🌱 I’m currently learning:
-- Python Programming
+## I’m currently learning:
+- React JS and Tailwind css
 - Git and Version Control
-- Tkinter for GUI Development
-- Database Management with Oracle SQL
+- Android App Development
 
-## 💞️ I’m looking to collaborate on:
-- Chatbot projects
-- DBMS projects
-- Academic performance tracking systems
-- Open-source software initiatives
+## I’m looking to collaborate on:
+- Web development projects
+- Mobile app development projects
 
-## 📫 How to reach me:
+## How to reach me:
 - Email: [jaadhikabilan@gmail.com](mailto:jaadhikabilan@gmail.com)
 - LinkedIn: [Aadhi Kabilan](https://www.linkedin.com/in/aadhi-kabilan-b840751bb/)
-
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun fact:
-- I enjoy playing story-driven games and exploring different programming languages!
