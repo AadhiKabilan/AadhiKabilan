@@ -7,7 +7,7 @@
 - Gaming
 
 ## I’m currently learning:
-- React JS and Tailwind css
+- React JS
 - Git and Version Control
 - Android App Development
 
