@@ -41,11 +41,6 @@ I recently worked on **AI-first design projects using Kiro**, focusing on **mult
 
 ## 🚀 Featured Projects
 
-### 🔹 Multilingual Mandi – AI for Bharat
-- Designed an **AI-driven multilingual trade assistant** for local markets.
-- Focused on **price discovery, culturally aware negotiation**, and **voice/text interaction**.
-- Built using **Kiro’s Spec → Design workflow** with full architectural diagrams.
-
 ### 🔹 PolyShield Pro – AI-Powered Malware Detection
 - ML-based polymorphic malware detection using behavioral features.
 - Ensemble models with real-time process monitoring.
