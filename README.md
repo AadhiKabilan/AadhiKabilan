@@ -88,15 +88,16 @@
 
 ## 📊 GitHub Stats
 
-![Aadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadhiKabilan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Aadhi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadhiKabilan&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AadhiKabilan?label=Followers&style=for-the-badge&logo=github&color=2b9348" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AadhiKabilan?label=Stars&style=for-the-badge&logo=github&color=1f77b4" alt="Stars" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhi-kabilan-b840751bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhi-kabilan-j-b840751bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaadhikabilan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadhiKabilan)
 
