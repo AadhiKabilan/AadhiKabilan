@@ -88,10 +88,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadhiKabilan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aadhi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadhiKabilan&layout=compact&theme=dark&hide_border=true" alt="Aadhi's top languages" />
-</p>
+![Aadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadhiKabilan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Aadhi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadhiKabilan&layout=compact&theme=radical&hide_border=true)
 
 ---
 
