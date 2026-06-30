@@ -1,101 +1,105 @@
 # Hi, I’m Aadhi Kabilan J 👋
 
-🎓 **B.Tech (Information Technology)** | Puducherry Technological University  
-💻 **Aspiring Software Developer | AI & Full-Stack Enthusiast**  
+[![Profile Views](https://komarev.com/ghpvc/?username=AadhiKabilan&color=brightgreen)](https://github.com/AadhiKabilan)
+
+## 🚀 Software Developer | AI & Full-Stack Innovator
+
+🎓 B.Tech in Information Technology | Puducherry Technological University | CGPA: 9.08/10  
 📍 Puducherry, India  
 
 ---
 
-## 👨‍💻 About Me
+## ✨ About Me
 
-I am an aspiring software developer with strong fundamentals in **problem solving, system design, and software development**.  
-I enjoy building **AI-driven systems**, **full-stack web applications**, and **practical solutions** that solve real-world problems, especially in the Indian context.
+> I design and build intelligent systems that combine **AI, automation, and modern web technologies** to solve real-world problems. My work spans from **secure ML-powered tools** to **responsive full-stack applications** and **IoT-driven automation**.
 
-I recently worked on **AI-first design projects using Kiro**, focusing on **multilingual systems, price discovery, and negotiation intelligence** for local markets.
+- Strong foundation in **software engineering, system design, and data-driven development**
+- Experience with **AI/ML pipelines, RESTful APIs, and interactive user experiences**
+- Passionate about building products that are **robust, scalable, and user-friendly**
 
 ---
 
-## 🛠️ Technical Skills
+## 🔥 What I Build
 
-**Programming Languages**
-- C++, Python, Java
+- **AI-powered security systems** with behavioral analysis and anomaly detection
+- **SEO automation platforms** that analyze, optimize, and improve website performance
+- **IoT and embedded solutions** for secure verification and automated monitoring
+- **Mobile and web apps** with REST API integration and polished UI/UX
 
-**Web & App Development**
-- HTML, CSS, Tailwind CSS
-- React.js (Basics)
-- PHP
-- Flutter (Dart)
+---
 
-**Databases**
-- MySQL
-- Oracle SQL
+## 🧰 Tech Stack
 
-**AI / ML & Tools**
-- Machine Learning (scikit-learn, LightGBM)
-- REST APIs
-- Git & Version Control
-- System Design & Architecture
-- Kiro (Spec → Design workflow)
+| Languages | Web / APIs | AI / ML | Mobile / IoT | Databases |
+|---|---|---|---|---|
+| C++ | HTML | scikit-learn | Flutter (Dart) | MySQL |
+| Python | CSS / Tailwind | LightGBM | Arduino | Oracle SQL |
+| Java | JavaScript | NumPy / Pandas | ESP8266 |  |
+| PHP | React.js | Flask / FastAPI |  |  |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 PolyShield Pro – AI-Powered Malware Detection
-- ML-based polymorphic malware detection using behavioral features.
-- Ensemble models with real-time process monitoring.
+### 🔹 PolyShield Pro — AI Malware Detection
+- Developed a behavioral threat detection engine using ensemble classification and anomaly detection.
+- Implemented real-time process monitoring and threat response automation.
 - **Tech:** Python, scikit-learn, LightGBM, Tkinter
 
-### 🔹 SEO Optimizer Pro
-- Automated SEO audit and optimization platform.
-- Generates SEO-improved webpages programmatically.
-- **Tech:** FastAPI, React.js, Python
+### 🔹 SEO Optimizer Pro — Smart SEO Automation
+- Built an AI-driven SEO audit tool that analyzes sites, computes scoring, and generates optimization suggestions.
+- Automated SEO fixes and content improvements for higher visibility.
+- **Tech:** Python, FastAPI, React.js
 
-### 🔹 IoT-Based Student Verification System
-- RFID-based college gate security system with real-time logging.
+### 🔹 IoT Student Verification System — Secure Access Control
+- Created a real-time RFID verification system with student validation and entry/exit logging.
+- Designed the backend for reliable identity checks and record management.
 - **Tech:** Arduino, ESP8266, PHP, MySQL
 
-### 🔹 EfloraKkl Mobile App
-- Flutter app for plant taxonomy and biodiversity data.
+### 🔹 EfloraKkl Mobile App — Plant Discovery
+- Built a dynamic Flutter app for plant taxonomy and biodiversity search.
+- Integrated REST APIs and filters for family, genus, and habitat search.
 - **Tech:** Flutter, REST APIs, MySQL
 
 ---
 
-## 💼 Internships
+## 💼 Internship Experience
 
-**Web Development Intern – Annai Care Industries (Puducherry)**  
-- Built PHP + MySQL website with product database and CRUD operations.  
-- Website: https://annaicareindustries.com  
+**Web Development Intern — Annai Care Industries**
+- Delivered a responsive Tailwind CSS + PHP + MySQL website with product catalog management and CRUD operations.
+- Helped deploy the site and streamline product listing workflows.
+- Website: https://www.annaicareindustries.com/
 
-**Web Development & Product Intern – Star Scans & Labs (Chennai)**  
-- Developed responsive web application and desktop billing software.  
-- Website: https://starscansandlabs.com  
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Prize – Technical Quiz (MECHNIUM 2024)
-- 🥈 2nd Prize – Technical Quiz (JIGYASA 2025)
-- Event Coordinator – **Neura’25** National Technical Symposium
-- Participant – National Level Project Contest & UI/UX Workshops
+**Web Development & Product Intern — Star Scans & Labs**
+- Developed a Tailwind CSS web app and Python Tkinter billing software for operational automation.
+- Built patient data management tools to improve clinical record tracking.
+- Website: https://www.starscansandlabs.com/
 
 ---
 
-## 🤝 I’m Open To
+## 🏆 Highlights
 
-- Software Development Internships
-- Entry-level Software Engineer roles
-- AI / ML projects
-- Full-Stack & System Design collaborations
+- 🥇 1st Prize — Technical Quiz (MECHNIUM 2024)
+- 🥈 2nd Prize — Technical Quiz (JIGYASA 2025)
+- Event Coordinator — Neura’25 National Technical Symposium
+- Participant — National Project Contest & UI/UX Workshops
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-- 📧 Email: **jaadhikabilan@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/aadhi-kabilan-b840751bb/
-- 💻 GitHub: https://github.com/AadhiKabilan
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadhiKabilan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aadhi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadhiKabilan&layout=compact&theme=dark&hide_border=true" alt="Aadhi's top languages" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadhi-kabilan-b840751bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaadhikabilan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadhiKabilan)
 
 ---
 
